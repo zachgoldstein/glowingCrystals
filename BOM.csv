@@ -1,0 +1,5 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"SW1";"PinHeader_1x3_P2mm_Drill1mm";1;"SW_SPDT";;;
+2;"BT1";"Battery_2032";1;"Battery_Cell";;;
+3;"D3,D2,D1";"D_0805_2012Metric";3;"LED";;;
+4;"RV1";"Trimpot_3.8mmx3.6mm_TC33X-2-103E";1;"R_POT_TRIM";;;
